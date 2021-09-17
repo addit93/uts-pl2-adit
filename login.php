@@ -5,7 +5,9 @@
     <table width="100%" height="100%" border="1">
         <tr height="5%">
             <td align="center">
-                <h1> Selamat Datang</h1>
+                <h1>Sistem Pembayaran SPP Siswa</h1>
+                <h2>SMK Bina Sejahtera 1 Kota Bogor</h2>
+                <br>
         </tr>
         <tr height="95%">
             <td valign="top" align="center">
